@@ -1,1 +1,184 @@
-
+{
+  "Header": {
+    "title": "Your Smart Tech Partner",
+    "paragraph": "Empower your workflow with our AI-driven productivity platform. Designed for teams, optimized for results."
+  },
+  "About": {
+    "paragraph": "Our tech product is built to simplify complex tasks and accelerate project delivery. From real-time collaboration to intelligent automation, we equip modern teams with tools that save time and increase productivity. Trusted by startups and enterprises alike, we are committed to continuous innovation.",
+    "Why": [
+      "AI-powered task automation",
+      "Seamless team collaboration",
+      "Secure cloud-based platform",
+      "Real-time performance insights"
+    ],
+    "Why2": [
+      "Customizable workflow engine",
+      "Built for scalability",
+      "24/7 technical support",
+      "Integrations with 100+ apps"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Dashboard Overview 1",
+      "largeImage": "public/img/portfolio/1.jpg",
+      "smallImage": "public/img/portfolio/1a.jpg"
+    },
+    {
+      "title": "Dashboard Overview 2",
+      "largeImage": "public/img/portfolio/2.jpg",
+      "smallImage": "public/img/portfolio/2a.jpg"
+    },
+    {
+      "title": "Dashboard Overview 3",
+      "largeImage": "public/img/portfolio/3.jpg",
+      "smallImage": "public/img/portfolio/3a.jpg"
+    },
+    {
+      "title": "Dashboard Overview 4",
+      "largeImage": "public/img/portfolio/4.jpg",
+      "smallImage": "public/img/portfolio/4a.jpg"
+    },
+    {
+      "title": "Dashboard Overview 5",
+      "largeImage": "public/img/portfolio/5.jpg",
+      "smallImage": "public/img/portfolio/5a.jpg"
+    },
+    {
+      "title": "Dashboard Overview 6",
+      "largeImage": "public/img/portfolio/6.jpg",
+      "smallImage": "public/img/portfolio/6a.jpg"
+    },
+    {
+      "title": "Dashboard Overview 7",
+      "largeImage": "public/img/portfolio/07.jpg",
+      "smallImage": "public/img/portfolio/7a.jpg"
+    },
+    {
+      "title": "Dashboard Overview 8",
+      "largeImage": "public/img/portfolio/8.jpg",
+      "smallImage": "public/img/portfolio/8a.jpg"
+    },
+    {
+      "title": "Dashboard Overview 9",
+      "largeImage": "public/img/portfolio/9.jpg",
+      "smallImage": "public/img/portfolio/9a.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "name": "Automation Engine",
+      "text": "Automate repetitive tasks with our powerful workflow engine and reduce human error."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Team Collaboration",
+      "text": "Bring your team together with live chat, shared tasks, and integrated timelines."
+    },
+    {
+      "icon": "fa fa-lock",
+      "name": "Enterprise Security",
+      "text": "End-to-end encryption and multi-layered access controls to keep your data safe."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Analytics Dashboard",
+      "text": "Monitor performance with real-time analytics and actionable business insights."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud Sync",
+      "text": "Access your workspace anytime, anywhere with secure cloud synchronization."
+    },
+    {
+      "icon": "fa fa-plug",
+      "name": "Third-Party Integrations",
+      "text": "Easily integrate with Google Workspace, Slack and more."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "public/img/testimonials/1.jpg",
+      "text": "Since switching to this platform, our team productivity has increased by 40%. It's intuitive, reliable, and built for scale.",
+      "name": "Ayesha Malik"
+    },
+    {
+      "img": "public/img/testimonials/2.jpg",
+      "text": "An outstanding product with top-notch support. Highly recommend it for agile teams and startups.",
+      "name": "Haroon Khan"
+    },
+    {
+      "img": "public/img/testimonials/3.jpg",
+      "text": "We finally have one place to manage all our projects and performance metrics. This tool is a game-changer.",
+      "name": "Sara Hussain"
+    },
+    {
+      "img": "public/img/testimonials/4.jpg",
+      "text": "Their automation and analytics features helped us streamline operations across multiple departments.",
+      "name": "Usman Raza"
+    },
+    {
+      "img": "public/img/testimonials/5.jpg",
+      "text": "Simple, clean, and incredibly effective. A must-have for tech-driven teams.",
+      "name": "Amna Tariq"
+    },
+    {
+      "img": "public/img/testimonials/6.jpg",
+      "text": "Easy to use, scalable, and affordable — we love how this tool grows with us.",
+      "name": "Zain Qureshi"
+    }
+  ],
+  "Team": [
+    {
+      "img": "public/img/team/3.jpg",
+      "name": "Ali Javed",
+      "job": "Product Architect"
+    },
+    {
+      "img": "public/img/team/2.jpg",
+      "name": "Sana Sheikh",
+      "job": "UI/UX Designer"
+    },
+    {
+      "img": "public/img/team/4.jpg",
+      "name": "Bilal Mehmood",
+      "job": "Backend Developer"
+    },
+    {
+      "img": "public/img/team/1.jpg",
+      "name": "Hira Shah",
+      "job": "Customer Success Lead"
+    }
+  ],
+  "Contact": {
+    "address": "Karachi, Pakistan",
+    "phone": "+92 300 1234567",
+    "email": "support@techteam.io",
+    "facebook": "https://facebook.com/smartplatform",
+    "twitter": "https://twitter.com/smartplatform",
+    "youtube": "https://youtube.com/smartplatform"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-rocket",
+      "title": "Fast Deployment",
+      "text": "Get your workspace up and running in minutes with guided setup and live onboarding."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Smart Insights",
+      "text": "AI analyzes your work habits and suggests ways to improve speed and efficiency."
+    },
+    {
+      "icon": "fa fa-check-circle",
+      "title": "Reliable & Scalable",
+      "text": "Whether you're a team of 5 or 500, our platform scales seamlessly with your growth."
+    },
+    {
+      "icon": "fa fa-support",
+      "title": "24/7 Support",
+      "text": "Our dedicated support team is always ready to help you troubleshoot and thrive."
+    }
+  ]
+}
